@@ -6,7 +6,7 @@ Each branch is a separate project. The readme file of each page gives a short de
 
 My projects:
 
-[Migo projekt](https://aerlingsson.github.io/projects/migo)
+[Migo](https://aerlingsson.github.io/projects/migo)
 
 [flurryBot](https://aerlingsson.github.io/projects/flurryBot)
 
