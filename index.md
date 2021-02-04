@@ -1,4 +1,4 @@
-# Arnar Haukur Erlingsson - MIGO
+# MIGO
 This branch contains the work I did for Migo: a startup company I volunteered for, for three months, before it disbanded.
 Migo was to be a platform for buying and selling dogs as pets. This should support both dog pounds and private individuals.
 Most of my implemented work was done on the website, based on WordPress (WP).
